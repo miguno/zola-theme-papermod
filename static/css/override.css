@@ -30,3 +30,8 @@
 .post-content pre code > table td:nth-child(2) {
   width: 92%;
 }
+
+.post-content table th {
+  font-size: 18px;
+  text-align: start;
+}
